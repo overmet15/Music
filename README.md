@@ -11,6 +11,12 @@ AND IF YOU WANT TO USE SOMETHING FROM SKETCHES, EXCEPT ME TO RELEASE SOMETHING S
 FL Studio v21.2.2 - All Plugins Edition
 
 ## PLugins & More
-[BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover) - Free plugin for orchestral instruments.
-[Xfer_OTT](https://xferrecords.com/freeware) - Free multiband compressor, which basicly makes everything better.
-[Kilohearts](https://kilohearts.com/) - Bunch of free plugins.
+[BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover) - Free plugin for orchestral instruments.  
+[Xfer_OTT](https://xferrecords.com/freeware) - Free multiband compressor, which basicly makes everything better.  
+[Kilohearts](https://kilohearts.com/) - Bunch of free plugins.  
+
+## Samples
+Note, that samples are (usaly) included in project folder.
+
+Unknown - sorry, i couldn't remember wher i took the samples.  
+[Rhythm Lab The Ultimate Amen Breaks Pack](https://rhythm-lab.com/the-ultimate-amen-breaks-pack) - Cool pack with toons of Amen Breaks.  
