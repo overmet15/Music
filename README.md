@@ -23,4 +23,4 @@ FL Studio v21.2.2
 Note, that samples are (usaly) included in project folder.
 
 Unknown - sorry, i couldn't remember wher i took the samples.  
-[Rhythm Lab The Ultimate Amen Breaks Pack](https://rhythm-lab.com/the-ultimate-amen-breaks-pack) - Cool pack with toons of Amen Breaks.  
+[Rhythm Lab The Ultimate Amen Breaks Pack](https://rhythm-lab.com/the-ultimate-amen-breaks-pack) - Cool pack with tons of Amen Breaks.  
