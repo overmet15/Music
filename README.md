@@ -15,9 +15,14 @@ However, they may be randomly updated, so, except seing small sketch turn into b
 FL Studio v21.2.2
 
 ## PLugins & More
+Note that not all of them are included in projects some projects
+
 [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover) - Free plugin for orchestral instruments.  
 [Xfer_OTT](https://xferrecords.com/freeware) - Free multiband compressor, which basicly makes everything better.  
 [Kilohearts](https://kilohearts.com/) - Bunch of free plugins.  
+Zenology - Really cool plugin ig.  
+[Voc Vocal Synth](https://socalabs.com/synths/voc-vocal-synth/) - Funny sounds.  
+[SGM v2.01](https://archive.org/details/SGM-V2.01) - Didnt use it that much, 1 project if im not wrong.
 
 ## Samples
 Note, that samples are (usaly) included in project folder.
