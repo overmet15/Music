@@ -5,10 +5,10 @@ Here, i dump all music stuff i made, they can be unrelated to anything or be sim
 However, remixing, and using in you projects IS ALLOWED ASLONG AS THE CREATOR(s) ARE CREDITED.
 
 IF YOU PLAN ON USING ANYTHING, MAKE SURE IT DOESNT BELONG TO OTHER PROJECT.  
-AND IF YOU WANT TO USE SOMETHING FROM SKETCHES, EXCEPT ME TO RELEASE SOMETHING SIMILAR IN FUTURE.
+AND IF YOU WANT TO USE SOMETHING FROM DRAFTS, EXCEPT ME TO RELEASE SOMETHING SIMILAR IN FUTURE.
 
 ## Sketches
-Sketches are unfinished, or test projects. I may never use them, i may will release them, or maybe even bundle with other song, who knows.
+Drafts are unfinished, or test projects. I may never use them, i may will release them, or maybe even bundle with other song, who knows.
 However, they may be randomly updated, so, except seing small sketch turn into big song or bunch of trash.
 
 ## DAW(s) & Software
@@ -20,7 +20,7 @@ Note that not all of them are included in projects some projects
 [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover) - Free plugin for orchestral instruments.  
 [Xfer_OTT](https://xferrecords.com/freeware) - Free multiband compressor, which basicly makes everything better.  
 [Kilohearts](https://kilohearts.com/) - Bunch of free plugins.  
-Zenology - Really cool plugin ig.  
+Zenology Pro - Really cool plugin ig.  
 [Voc Vocal Synth](https://socalabs.com/synths/voc-vocal-synth/) - Funny sounds.  
 [SGM v2.01](https://archive.org/details/SGM-V2.01) - Didnt use it that much, 1 project if im not wrong.
 
