@@ -7,6 +7,8 @@ However, remixing, and using in you projects IS ALLOWED ASLONG AS THE CREATOR(s)
 IF YOU PLAN ON USING ANYTHING, MAKE SURE IT DOESNT BELONG TO OTHER PROJECT.  
 AND IF YOU WANT TO USE SOMETHING FROM DRAFTS, EXCEPT ME TO RELEASE SOMETHING SIMILAR IN FUTURE.
 
+If project files are missing or something is wrong or you just have questions, feel free to make issue.
+ 
 ## Sketches
 Drafts are unfinished, or test projects. I may never use them, i may will release them, or maybe even bundle with other song, who knows.
 However, they may be randomly updated, so, except seing small sketch turn into big song or bunch of trash.
