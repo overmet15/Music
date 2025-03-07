@@ -24,7 +24,7 @@ Note that not all of them are included in projects some projects
 [Kilohearts](https://kilohearts.com/) - Bunch of free plugins.  
 Zenology Pro - Really cool plugin ig.  
 [Voc Vocal Synth](https://socalabs.com/synths/voc-vocal-synth/) - Funny sounds.  
-[SGM v2.01](https://archive.org/details/SGM-V2.01) - Didnt use it that much, 1 project if im not wrong.
+[SGM v2.01](https://archive.org/details/SGM-V2.01) - Idk.
 
 ## Samples
 Note, that samples are (usaly) included in project folder.
