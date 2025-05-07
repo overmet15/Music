@@ -1,17 +1,20 @@
 # Met's music projects dump
 
-Here, i dump all music stuff i made, they can be unrelated to anything or be simple sketches i may use in future, or they can have their own license or belong to an project, make sure to check before doing anything.
+This is a place where I dump all the music stuff I've made. These tracks can be unrelated experiments, simple sketches, or pieces tied to other projects. Some may have their own licenses or be part of something larger—**make sure to check before using anything**.
 
-However, remixing, and using in you projects IS ALLOWED ASLONG AS THE CREATOR(s) ARE CREDITED.
-
-IF YOU PLAN ON USING ANYTHING, MAKE SURE IT DOESNT BELONG TO OTHER PROJECT.  
-AND IF YOU WANT TO USE SOMETHING FROM DRAFTS, EXCEPT ME TO RELEASE SOMETHING SIMILAR IN FUTURE.
+### Usage Guidelines
+- **Remixing is allowed**, as long as **the original creator(s) are credited**.
+- **Before using any track**, make sure it’s not part of another project.
+- If you're using a **draft**, expect that I might release a finalized version of it in the future.
+- For more info check the [FAQ](FAQ.md)
 
 If project files are missing or something is wrong or you just have questions, feel free to make issue.
  
 ## Sketches
-Drafts are unfinished, or test projects. I may never use them, i may will release them, or maybe even bundle with other song, who knows.
-However, they may be randomly updated, so, except seing small sketch turn into big song or bunch of trash.
+Sketches are unfinished or test projects. I may never release them, or they might evolve into full songs or be bundled with other works. They can be updated at any time—don’t be surprised if a small idea turns into a full track or just disappears.
+
+## Notice
+**Before using any of these songs in your own project(s), please DM [@overmet15](https://github.com/overmet15) and ask first!**
 
 ## DAW(s) & Software
 FL Studio v21.2.2
